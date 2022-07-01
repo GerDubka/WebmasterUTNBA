@@ -1,6 +1,0 @@
-lista de compras 
-Aarticulos nuevos en la lista de compras 
-creando listados con precios nuevos
-precios actualizados segun inflacion
-precios finales
-
