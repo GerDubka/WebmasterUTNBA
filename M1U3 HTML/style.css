@@ -1,0 +1,22 @@
+.nombre { 
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: large;
+    border-style: outset;
+    border-color: blue;
+    border-radius: 5px;
+    border-width: 5px;
+    background-color: aqua;
+    text-align: center;
+    margin-right: 150px;
+    padding: 5px 5px 5px 5px;
+}
+
+.edad {
+    color: brown;
+    font-style: normal;
+    text-decoration:underline;
+    
+
+}
