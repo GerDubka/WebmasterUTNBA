@@ -1,0 +1,44 @@
+.nombre { 
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: large;
+    border-style: outset;
+    border-color: blue;
+    border-radius: 5px;
+    border-width: 5px;
+    background-color: aqua;
+    text-align: center;
+    margin-right: 150px;
+    padding: 5px 5px 5px 5px;
+}
+
+.edad {
+    color: brown;
+    font-style: normal;
+    text-decoration:underline;
+    
+
+}
+#contacto {
+text-decoration:underline;
+
+}
+.series {
+    text-align: left;
+}
+ul {
+    background-color: aqua;
+    list-style-type: none;
+}
+ol {
+    background-color: aquamarine;
+    list-style-type: none;
+
+}
+h3, h4, h5 {
+    text-decoration: underline;
+}
+.src {
+    border-color: blue;
+}
