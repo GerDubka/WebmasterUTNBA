@@ -1,0 +1,33 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    color: brown;
+    text-align: center;
+}
+
+header{
+    background: linear-gradient(to bottom, blue, white);
+    background-color: aquamarine;
+    color: black;
+    padding: 3rem 2rem;
+}
+nav{
+    background: linear-gradient(to bottom, blue, white); 
+}
+h1{
+    box-shadow: 0 0 5px #888;
+}
+p {
+    column-count: 2;
+    column-gap: 20px;
+}
+.post{
+    border-radius: 10px;
+    }
+    .img{
+        border-radius: 10px 10px 10px 10px;
+    }
+    .conteiner{
+        width: 400px;
+        margin: 0 auto;
+    }

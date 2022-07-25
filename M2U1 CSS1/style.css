@@ -1,5 +1,5 @@
 .nombre { 
-    color:blue;
+    color: red;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
     font-size: large;
@@ -7,17 +7,19 @@
     border-color: blue;
     border-radius: 5px;
     border-width: 5px;
-    background-color: aqua;
+    background: linear-gradient(to bottom, blue, white);
     text-align: center;
     margin-right: 150px;
     padding: 5px 5px 5px 5px;
+    box-shadow: 0 0 5px #888;
 }
 
 .edad {
-    color: brown;
+    font-size: large;
+    color:#6800ff
     font-style: normal;
-    text-decoration:underline;
-    
+    text-decoration: underline;
+    text-shadow: 7px 10px 0px rgba(220,4,4,0.24);
 
 }
 #contacto {
@@ -25,14 +27,18 @@ text-decoration:underline;
 
 }
 .series {
-    text-align: left;
+    border-radius: 5px;
+    
 }
 ul {
-    background-color: aqua;
+    border-radius: 5px;
+    border-width: 5px;
+    background: linear-gradient(102deg,#00ffe7 0%, #00acff 80%);
     list-style-type: none;
 }
 ol {
-    background-color: aquamarine;
+    border-radius: 5px 10px 5px 10px;
+    background: linear-gradient(274deg,#6800ff 0%, #00acff 80%);
     list-style-type: none;
 
 }
@@ -41,4 +47,9 @@ h3, h4, h5 {
 }
 .src {
     border-color: blue;
+}
+
+.perfil {
+    background-color: #00acff;
+    box-shadow: 17px -13px 11px 9px rgba(33,115,161,0.75);
 }
